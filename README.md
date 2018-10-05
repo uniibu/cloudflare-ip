@@ -1,5 +1,5 @@
 
-# cloudflare-ip [![NPM version](https://badge.fury.io/js/cloudflare-ip.svg)](http://badge.fury.io/js/cloudflare-ip) [![Build Status](https://travis-ci.org/danneu/cloudflare-ip.svg?branch=master)](https://travis-ci.org/danneu/cloudflare-ip) [![Dependency Status](https://david-dm.org/danneu/cloudflare-ip.svg)](https://david-dm.org/danneu/cloudflare-ip)
+# cloudflare-ip [![NPM version](https://badge.fury.io/js/cloudflare-ip.svg)](http://badge.fury.io/js/cloudflare-ip) [![Build Status](https://travis-ci.org/danneu/cloudflare-ip.svg?branch=master)](https://travis-ci.org/danneu/cloudflare-ip) [![Dependency Status](https://david-dm.org/danneu/cloudflare-ip.svg)](https://david-dm.org/danneu/cloudflare-ip) [![Greenkeeper badge](https://badges.greenkeeper.io/uniibu/cloudflare-ip.svg)](https://greenkeeper.io/)
 
 Check if an IP address is in Cloudflare's IP address range.
 
